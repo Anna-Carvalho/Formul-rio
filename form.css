@@ -33,24 +33,24 @@ background: linear-gradient(-45deg, rgb(42, 135, 189), #c047f0bb, #6912a3d0);
 
 .input i{
     font-size: 1.2em;
-    padding: 5px;
-    background: -webkit-linear-gradient(-45deg, rgb(42, 135, 189), #c047f0bb, #6912a3d0);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    padding: 10px;
+    background: -webkit-linear-gradient(-10deg, rgb(42, 135, 189), #c047f0bb, #6912a3d0);
+    -webkit-background-clip:text;
+    -webkit-text-fill-color:tranparent;
 }
 .input{
     min-width: 290px;
     border-radius: 30px;
     border: 2px rgb(46, 12, 139) solid;
     padding: 10px;
-    margin: 0px 0px 19px -5px;
+    margin: 4px 5px 19px -5px;
 }
 .input input{
     width: 80%;
     border: none;
     outline: none;
     font-family: 'Poppins', sans-serif;
-    transform: translate(-10%);
+    transform: ;
     color:rgb(67, 42, 211) ;
     font-size: 11pt;
 }
